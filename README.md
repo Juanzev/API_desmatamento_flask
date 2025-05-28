@@ -18,7 +18,7 @@ cd NomeDoSeuRepositorioDaAPI
 Se você já tem os arquivos localmente, navegue até a pasta raiz do projeto da API.
 ```
 
-2. Crie e Ative um Ambiente Virtual (Recomendado)
+### 2. Crie e Ative um Ambiente Virtual (Recomendado)
 É uma boa prática usar ambientes virtuais para isolar as dependências do seu projeto.
 
 Bash
